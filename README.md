@@ -5,7 +5,7 @@ Create a adatabse and fetch products from it.
 PART-02
 1.Install mongoose and dotenv
 2.Create database using mongodb
-3.create the .env file
+3.create the .env file and update i.e MONGODB_URI=<database url here>
 4.Update server.js file
 
 
