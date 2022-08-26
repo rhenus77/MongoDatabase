@@ -1,6 +1,6 @@
 # MongoDatabase
 
-Create a adatabse and fetch products from it.
+Create mongodb database for products and fetch the products from it.
 
 PART-02
 1.Install mongoose and dotenv
